@@ -40,13 +40,4 @@ To import:
 
 ---
 
-## 🛠️ Environment Variables (.env)
 
-Create a `.env` file in your backend folder and add:
-
-```env
-MONGO_URI=mongodb+srv://sevanthimayak3:mayak%401234@cluster0.o1u6k3l.mongodb.net/
-JWT_SECRET=cd51930ac7c37eaaf2575087ad910e743b0b1bdeab08089f130c72c10b403e5a79c8fa45c2d2797a39c114405dcdc8a2cdf5f95b690ba0973d5de59efc258086
-EMAIL_USER=sevanthimayak3@gmail.com
-EMAIL_PASS=abcd efgh ijkl mnop
-FRONTEND_URL=http://localhost:5173/
