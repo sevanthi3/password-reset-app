@@ -4,13 +4,6 @@ This is the backend for a secure Password Reset application using **Node.js**, *
 
 ---
 
-## 🔗 Live URLs
-
-- **Frontend (React)**: [https://frontend-url.netlify.app](https://682743170996218725605bd4--stupendous-melomakarona-c3b757.netlify.app/forgot-password)
-- **Backend (Node + Express)**: [https://backend-url.onrender.com](https://password-reset-app-1.onrender.com)
-
----
-
 ## ⚙️ Technologies Used
 
 - Node.js
